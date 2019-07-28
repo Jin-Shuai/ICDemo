@@ -1,0 +1,12 @@
+E:\A02SelfDemo\ICDemo\ICDemo\bin\x64\Debug\ICDemo.exe.config
+E:\A02SelfDemo\ICDemo\ICDemo\bin\x64\Debug\ICDemo.exe
+E:\A02SelfDemo\ICDemo\ICDemo\bin\x64\Debug\ICDemo.pdb
+E:\A02SelfDemo\ICDemo\ICDemo\bin\x64\Debug\halcondotnet.dll
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.MainFrm.resources
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.Properties.Resources.resources
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.csproj.GenerateResource.cache
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.csproj.CoreCompileInputs.cache
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.csproj.CopyComplete
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.exe
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.pdb
+E:\A02SelfDemo\ICDemo\ICDemo\obj\x64\Debug\ICDemo.csprojAssemblyReference.cache
